@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This is the home for everything related with the t3mujinpack film emulation presets for Darktable. First and foremost, the [presets]([url](https://github.com/t3mujinpack/t3mujinpack) but also everything related to it: the discussions, the main site and, whenever it makes sense, a separate documentaion site.  
+
+
 <!--
 
 **Here are some ideas to get you started:**
